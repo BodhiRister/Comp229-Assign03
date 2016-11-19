@@ -20,8 +20,8 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:ru@ru.com">Supportrister@ru.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:ru@ru.com">Marketingrister@ru.com</a>
+        <strong>Questions:</strong>   <a href="mailto:ru@ru.com">questionrister@ru.com</a><br />
+        <strong>Apply:</strong> <a href="mailto:ru@ru.com">applyrister@ru.com</a>
     </address>
 
 
