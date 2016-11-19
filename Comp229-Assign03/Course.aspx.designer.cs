@@ -10,6 +10,6 @@
 namespace Comp229_Assign03 {
     
     
-    public partial class ContactUs {
+    public partial class About {
     }
 }
