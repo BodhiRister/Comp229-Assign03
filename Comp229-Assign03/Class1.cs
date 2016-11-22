@@ -19,8 +19,8 @@ public partial class ExcuteScript : System.Web.UI.Page
         string script = File.ReadAllText(@"C:\Users\Administrator\Downloads\Assign03.sql");
         SqlConnection conn = new SqlConnection(sqlConnectionString);
 
-        Server server = new Server(new ServerConnection(conn));
+        //Server server = new Server(new ServerConnection(conn));
 
-        server.ConnectionContext.ExecuteNonQuery(script);
+       // server.ConnectionContext.ExecuteNonQuery(script);
     }
 }
